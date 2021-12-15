@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_version" translatable="false">0.17.3</string>
+    <string name="database_version_label" translatable="false"> </string>
+    <string name="author_label" translatable="false"> </string>
+    <string name="author" translatable="false"></string>
+    <string name="opensource_label" translatable="false"> </string>
+    <string name="opensource_url" translatable="false"></string>
+    <string name="email_label" translatable="false"> </string>
+    <string name="email_url" translatable="false"></string>
+    <string name="revision_history_label" translatable="false">Revision History: </string>
+    <string name="revision_history" translatable="false">\n
+	</string>
+    <string name="thanks_label" translatable="false"> </string>
+    <string name="MPAndroidChart_content" translatable="false"></string>
+    <string name="javaCSV_content" translatable="false"></string>
+    <string name="antoniomChronometer_content" translatable="false"></string>
+    <string name="PagerSlidingTabStrip_content" translatable="false"></string>
+    <string name="LicensesDialog_content" translatable="false"></string>
+    <string name="SmartTabLayout_content" translatable="false"></string>
+    <string name="freepik_content" translatable="false"></string>
+    <string name="flaticon_content" translatable="false"></string>
+    <string name="circleprogress_content" translatable="false"></string>
+    <string name="circularImageView_content" translatable="false"></string>
+    <string name="ktoast_content" translatable="false"></string>
+    <string name="SweetAlertDialog_content" translatable="false"></string>
+    <string name="AndroidImageCropper_content" translatable="false"></string>
+    <string name="MaterialFavoriteButton_content" translatable="false"></string>
+
+</resources>
